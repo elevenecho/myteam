@@ -1591,6 +1591,22 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
+.container-header {
+  padding-right: auto;
+  padding-top: 20px;
+  padding-left: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+.container-headthree {
+  padding-right: auto;
+  padding-top: 20px;
+  padding-left: auto;
+  padding-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
 @media (min-width: 768px) {
   .container {
     width: 750px;
