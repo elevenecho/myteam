@@ -59,9 +59,13 @@ strong {
 dfn {
   font-style: italic;
 }
+
+header{
+      height: 400px;
+}
 h1 {
   margin: .67em 0;
-  font-size: 2em;
+  font-size: 8em !important;
 }
 mark {
   color: #000;
